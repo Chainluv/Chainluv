@@ -8,7 +8,7 @@ SR = 48000
 DUR = 20.0
 N = int(SR * DUR)
 rng = np.random.default_rng(42)
-NARR = {"l1": 0.15, "l2": 3.55, "l3": 9.35, "l4": 16.35}
+NARR = {"l1": 0.15, "l2": 3.55, "l3": 9.35, "l4": 16.35, "l5": 18.7}  # l5 = "No way." brand tag
 
 
 def T(n):

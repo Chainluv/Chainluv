@@ -1,4 +1,4 @@
-"""Render the 20s Oddly True short: frames -> ffmpeg (video only). Audio is made by audio.py."""
+"""Render the 20s No Way short: frames -> ffmpeg (video only). Audio is made by audio.py."""
 import json
 import os
 import subprocess
@@ -197,7 +197,7 @@ def end_card(t, idx):
     img = Image.new("RGB", (W, H), (8, 7, 6))
     d = ImageDraw.Draw(img)
     f = font("anton", 210)
-    txt = "ODDLY TRUE"
+    txt = "NO WAY"
     tw = d.textlength(txt, font=f)
     scale = 1.0 + 0.04 * a
     title = Image.new("RGBA", (W, H), (0, 0, 0, 0))
