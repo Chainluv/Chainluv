@@ -13,7 +13,7 @@ import textwrap
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-WPM = float(sys.argv[1]) if len(sys.argv) > 1 else 150
+WPM = 150  # overridden by the command-line argument in main()
 MAX_LINE = 42          # chars per caption line (Netflix/YouTube-friendly)
 MAX_LINES = 2
 SENTENCE_PAUSE = 0.25  # seconds
@@ -52,6 +52,9 @@ def fmt(t, sep):
 
 
 def main():
+    global WPM
+    if len(sys.argv) > 1:
+        WPM = float(sys.argv[1])
     lines = (ROOT / "narration.txt").read_text().splitlines()
     t, cues, chapters, transcript = 0.0, [], [], []
     for line in lines:
