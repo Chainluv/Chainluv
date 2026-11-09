@@ -1,0 +1,123 @@
+Imagine it's 2045.
+Cancer is no longer the death sentence it once was. Robots handle much of the world's physical labor. AI has dramatically sped up scientific discovery.
+Energy is cheaper. Manufacturing is more efficient. And people are living longer, healthier lives.
+Along the way, the stock market has created enormous fortunes.
+But here's the strange part. Some investors who correctly predicted this future still lost money. Others got rich investing in companies nobody was talking about when the revolution began.
+Why? Because the stock market doesn't simply reward good news. It rewards outcomes that are better than what investors already expected.
+Quick note before we start. This is a fictional, optimistic scenario. It is not a forecast, and nothing here is investment advice.
+
+Chapter one. The infrastructure gold rush. 2026 to 2028.
+It's late 2026. AI models keep improving. Businesses race to automate work. And every major tech company wants more computing power.
+Investors focus on the obvious names, like Nvidia and Microsoft. But the physical world can't keep up.
+Data centers need electricity, transformers, cooling systems, optical fiber, and power grid upgrades.
+Then a relatively obscure electrical equipment maker announces that its order backlog has doubled.
+Big institutional investors notice. Money starts rotating out of the obvious AI winners and into the companies supplying the AI economy.
+The thinking shifts. First it was: AI is the future, so I need to own the companies making AI.
+Then it becomes: every AI company needs electricity and infrastructure. So who supplies those?
+Companies worth researching here include Eaton, for electrical infrastructure. Vertiv, for data center power and cooling. Corning, for optical fiber. And GE Vernova, for power generation and grid equipment.
+The lesson. The early opportunity may be finding the bottlenecks AI creates, before everyone else prices them in.
+
+Chapter two. The first AI biotech breakthrough. 2028 to 2030.
+It's 2029. A biotech company announces remarkable late-stage trial results for an AI-assisted cancer treatment.
+The stock jumps 70 percent in a single day. Financial news celebrates. Investors pile into AI drug discovery.
+Six months later, another company's trial fails. Several speculative biotech stocks collapse 40 to 60 percent.
+The science keeps moving forward. But the market swings from euphoria, to disappointment, to consolidation.
+A revolutionary industry is not necessarily a profitable investment. Investors tend to overestimate short-term progress, and underestimate long-term change.
+Companies worth researching include Thermo Fisher Scientific, for lab equipment and research services. Danaher, for life science tools. Illumina, for DNA sequencing. And on the speculative end, Recursion Pharmaceuticals, for AI-driven drug discovery.
+The lesson. Companies that supply research infrastructure can benefit from more experimentation, even when individual drugs fail. But they can still be overpriced.
+
+Chapter three. Robots leave the factory. 2030 to 2033.
+It's 2031. Humanoid robots become commercially practical for a wide range of repetitive factory and logistics work.
+An early adopter announces major cost savings. Competitors now face a choice: automate, or fall behind.
+Robot orders surge.
+Investors chase the robot makers. But competition heats up. Robot prices fall. And some manufacturers struggle to protect their profit margins.
+Meanwhile, the component suppliers, and the businesses using robots well, end up with stronger economics.
+The company that invents a revolutionary technology doesn't always capture most of its value.
+Companies worth researching include Rockwell Automation, for industrial automation. ABB, for robotics and electrification. Teradyne, for automation and testing. And Cognex, for machine vision.
+The lesson. Follow the businesses that supply, deploy, and profit from automation. Not just the ones building the robots.
+And the social side is complicated. Productivity grows, but some workers are displaced. Governments debate retraining, income support, and taxes.
+
+Chapter four. The great AI market crash. 2033 to 2035.
+It's 2033. AI is better than ever. Robotics is expanding. Biotech is advancing.
+And yet, in our scenario, the Nasdaq crashes 45 percent.
+Why?
+Because investors had priced in near-perfect outcomes.
+Companies had spent billions on infrastructure, and some of it delivered disappointing returns. Competition pushed down prices for AI services. Heavily indebted businesses struggled.
+Even successful companies couldn't grow fast enough to justify their valuations.
+The technology wasn't failing. Expectations were.
+Picture a hypothetical AI growth stock index. It starts at 100 in 2026, climbs to 420 by 2033, then falls to 231 in 2034, before eventually recovering.
+A company can perform well as a business, while its stock performs terribly.
+Investors who buy at euphoric prices can suffer huge losses. Investors who carefully study the fundamentals during pessimistic periods may find much better opportunities.
+The lesson. Predicting the future correctly isn't enough. The price you pay matters enormously.
+
+Chapter five. Cancer becomes increasingly treatable. 2035 to 2038.
+It's 2036. AI-designed treatments, immunotherapies, early detection, and gene technologies dramatically improve outcomes for many cancers.
+Millions of people live longer, healthier lives.
+At first, investors focus on the drug companies.
+Then analysts start asking bigger questions.
+What happens when people live 10 to 15 years longer? What happens when older adults stay economically active? What happens to retirement, travel, insurance, and consumer spending?
+Possible winners include diagnostics and medical imaging, retirement and wealth management, travel and leisure, fitness and healthy aging, and consumer businesses serving older people.
+Possible losers include certain chronic disease treatment models, some insurers facing unexpected longevity costs, and companies tied to medical technologies that become obsolete.
+The lesson. Think beyond the breakthrough. Figure out what happens when the breakthrough becomes normal.
+
+Chapter six. The age of abundance. 2038 to 2042.
+It's 2040. Robots build buildings more cheaply. AI improves industrial processes. Automated farming increases output. And some forms of energy get much cheaper.
+Productivity surges.
+But think about an automated manufacturer that cuts its production costs by 60 percent.
+If its competitors make the same improvements, competition may force everyone to lower prices.
+Consumers capture much of the value, instead of shareholders.
+Productivity growth does not automatically turn into corporate profits or rising stock prices.
+So what stays scarce? Desirable land and locations. Reliable energy infrastructure. Trusted brands and distribution. Proprietary intellectual property. And unique customer relationships.
+The lesson. Look for the companies that keep pricing power when technology makes production cheaper.
+Abundance may also be shared unequally. Ownership, regulation, housing shortages, and job displacement can keep progress from reaching everyone equally.
+
+Chapter seven. The market in 2045.
+AI has become an ordinary part of economic life. Robots are everywhere. Biotech has transformed medicine.
+Some of the celebrated AI companies of 2026 have disappeared, merged, or turned into mediocre investments.
+Others have grown into enormous, profitable enterprises.
+And several of the biggest long-term winners were companies that barely marketed themselves as AI businesses at all.
+They simply supplied the things the new economy couldn't function without.
+The lesson. The best investors didn't necessarily predict the most inventions. They understood where profits would pile up, how much growth was already priced in, and when expectations got unreasonable.
+
+So let's turn this story into a playbook. Six ideas.
+
+Idea one. Follow the chain of consequences.
+Say AI helps cure cancer. Stage one is compute: chips, electricity, and data centers. Stage two is scientific tools: sequencing and lab automation. Stage three is clinical trials, drug developers, and diagnostics. Stage four is longevity: insurance, retirement, and consumer spending.
+Each stage may offer opportunities before the next one becomes obvious. But the timeline is uncertain, and some breakthroughs may never arrive.
+
+Idea two. A good company is not the same as a good stock.
+Imagine two companies. Both grow earnings 25 percent a year for five years.
+Company A starts at a price to earnings ratio of 80. Company B starts at a P E of 20.
+Five years later, both trade at a P E of 25.
+Ignoring dividends and dilution, Company A's stock is down about 5 percent. Company B's stock is up about 280 percent.
+Same business results. Completely different outcomes. The only difference was the price investors paid at the start.
+
+Idea three. Build an early signal watchlist.
+For AI infrastructure, research names like Eaton, Vertiv, and Corning. Watch power demand, order backlogs, construction, and grid investment.
+For AI biotech, look at Recursion, Thermo Fisher, and Danaher. Watch clinical results, research budgets, and lab automation.
+For robotics, Teradyne, ABB, and Rockwell. Watch deployments, falling automation costs, and customer returns.
+For precision medicine, Illumina and Intuitive Surgical. Watch clinical adoption and procedure growth.
+For energy, GE Vernova and Constellation Energy. Watch power contracts, new capacity, and infrastructure spending.
+And for the longevity economy, Visa and BlackRock. Watch demographics, spending, savings, and retirement trends.
+These are companies to research, not automatic buys. Valuation, competition, balance sheets, and execution still matter.
+
+Idea four. Learn the psychology of expectations.
+Discovery: investors start noticing a new opportunity. Optimism: early wins attract money. Euphoria: people assume extraordinary outcomes are guaranteed. Disappointment: growth misses inflated expectations. Despair: investors abandon the theme. And adoption: real-world use keeps growing, and lasting businesses emerge.
+It's a way of thinking, not a guaranteed sequence.
+
+Idea five. Ask the second-order question.
+Instead of asking, which company will invent the next big thing, ask this.
+If this technology becomes 100 times more useful, what will the world suddenly need 10 times more of? And who can supply it profitably?
+Then ask: how much of that future demand is already in the stock price?
+
+Idea six. Look for three signals.
+Bottlenecks. Which essential resources or services are becoming scarce?
+Adoption inflection points. When does a technology go from experimental to economically practical?
+And valuation extremes. When are investors assuming unrealistic success, or excessive failure?
+
+Here's the final thought.
+The most important investing skill may not be predicting the next breakthrough. It may be understanding how breakthroughs change demand, costs, competition, profits, and human expectations.
+A technology can transform civilization while its investors lose money.
+And an ordinary-looking supplier can quietly become one of the biggest winners of a revolution.
+The goal isn't just to find the future. It's to understand which businesses can capture its value, and to avoid paying a price that already assumes everything goes perfectly.
+Everything in this video, the dates, the events, and the market returns, is illustrative. It's an educational scenario, not a prediction or personal investment advice. Thanks for watching.
